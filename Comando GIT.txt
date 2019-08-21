@@ -58,9 +58,9 @@ O en el caso que tengas que especificar el repositorio remoto y la rama, sería 
 git push origin master
 ***************************************************
 PROCESO PARA ACTUALIZAR UN ARCHIVO EN GITHUB 
+git add -A (para actualizar todos los archivos )
 git commit -m "mensaje de lo que se hizo"
-git add -A  (para que actualice todos los archivos)
-git push oriin master 
+git push origin master 
 
 -*************************************************
 PAGINA DE CURRICULUM VITAE
