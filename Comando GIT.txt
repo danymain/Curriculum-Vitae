@@ -6,7 +6,7 @@ git status
 git commit 
 git push 
 git pull
-git clone 
+git clone (para clonar un proyecto) 
 git log
 git checkout -- <file> (para deshacer un cambio en un archivo )
 
@@ -57,6 +57,12 @@ O en el caso que tengas que especificar el repositorio remoto y la rama, sería 
 
 git push origin master
 ***************************************************
+PROCESO PARA ACTUALIZAR UN ARCHIVO EN GITHUB 
+git commit -m "mensaje de lo que se hizo"
+git add -A  (para que actualice todos los archivos)
+git push oriin master 
+
+-*************************************************
 PAGINA DE CURRICULUM VITAE
 https://cvdaniel.000webhostapp.com/
 *****************************************************
